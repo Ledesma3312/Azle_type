@@ -21,8 +21,8 @@ type Club={
 }
 let club : Club[] = [{
     id: 1, 
-    titulo: "", 
-    descrip: ""
+    titulo: "Meta", 
+    descrip: "Desarrollo de Metaverso"
 }];
 
 type User={
@@ -35,9 +35,9 @@ type User={
 
 let user : User[] = [{
     id: 1,
-    principal : "",
-    nombre: "",
-    descrip : ""
+    principal : "aaaa-qqqq-11233",
+    nombre: "Rosse",
+    descrip : "Boss"
 }];
 
 
